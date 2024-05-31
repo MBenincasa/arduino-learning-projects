@@ -18,7 +18,7 @@ This Arduino project is a simple circuit that makes a red LED blink at one-secon
 2. Connect the short leg of the LED (cathode) to GND (ground) on the Arduino.
 3. Ensure stable connections using the breadboard and jumper wires.
 
-![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/red_led_flash/blinking_red_led_design.png)
+![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/blinking_red_led/blinking_red_led_design.png)
 
 ## How It Works
 `setup()` ***Function***
