@@ -6,7 +6,7 @@ This Arduino project is a simple circuit that makes a red LED blink at one-secon
 
 ## Components Used
 
-- Arduino R4 Wifi
+- Arduino Uno
 - Red LED
 - Breadboard
 - 220-ohm resistor
