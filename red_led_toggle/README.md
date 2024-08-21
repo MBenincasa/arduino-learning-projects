@@ -24,7 +24,7 @@ In this Arduino project, we create a practical and engaging circuit that allows 
 5. Connect the same side of the push button (connected to pin 7) to the 5V power rail on the breadboard.
 6. Use the breadboard and jumper wires to establish stable connections.
 
-![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/red_led_toggle/red_led_toggle.png)
+![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/red_led_toggle/red_led_toggle_design.png)
 
 ## How It Works
 
