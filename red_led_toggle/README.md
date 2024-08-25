@@ -21,14 +21,14 @@ In this Arduino project, we create a practical and engaging circuit that allows 
 2. Connect the short leg of the LED (cathode) to GND (ground) on the Arduino.
 3. Connect one side of the push button to digital pin 7 on the Arduino.
 4. Connect the other side of the push button to GND on the Arduino through a 10,000-ohm resistor.
-5. Connect the same side of the push button (connected to pin 7) to the 5V power rail on the breadboard.
+5. Connect the same side of the push button (GND) to the 5V power rail on the breadboard.
 6. Use the breadboard and jumper wires to establish stable connections.
 
 ![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/red_led_toggle/red_led_toggle_design.png)
 
 ## How It Works
 
-### `setup()` ***Function***
+`setup()` ***Function***
 
 The `setup()` function initializes the Arduino and configures the pins:
 
@@ -36,7 +36,7 @@ The `setup()` function initializes the Arduino and configures the pins:
 - `pinMode(BUTTON_PIN, INPUT);`: Configures digital pin 7 as an input to read the button state.
 - `digitalWrite(LED_PIN, ledState);`: Sets the initial state of the LED to off.
 
-### `loop()` ***Function***
+`loop()` ***Function***
 
 The `loop()` function repeatedly checks the button state and updates the LED:
 
