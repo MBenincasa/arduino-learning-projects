@@ -4,7 +4,6 @@
 
 In this Arduino project, we create a practical and engaging circuit that allows you to control a red LED with a push button. Pressing the button toggles the LED on and off, simulating a simple switch mechanism.
 
-
 ## Components Used
 
 - Arduino Uno
