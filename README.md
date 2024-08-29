@@ -2,7 +2,7 @@
 
 Welcome to the Arduino Learning Projects repository! This collection is dedicated to showcasing my journey as I learn and experiment with Arduino.
 
-## Projects list
+## Projects List
 
 1. **Blinking red LED**
     - **Description:** In this project, you'll learn how to make a red LED blink at regular intervals. This is a great starting point for anyone new to Arduino.
