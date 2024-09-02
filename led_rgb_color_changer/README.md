@@ -31,7 +31,7 @@ In this Arduino project, we create a fun and interactive circuit that controls a
 
 ## How It Works
 
-`setup()` ***Function***
+`setup()` **Function**
 
 The `setup()` function initializes the Arduino and configures the pins:
 
@@ -39,7 +39,7 @@ The `setup()` function initializes the Arduino and configures the pins:
 - `pinMode(BUTTON_PIN, INPUT);`: Configures digital pin 7 as an input to read the button state.
 - `initializeLEDs();`: Sets the initial color of the LED to blue.
 
-`loop()` ***Function***
+`loop()` **Function**
 
 The `loop()` function continuously checks the state of the button and updates the LED color:
 

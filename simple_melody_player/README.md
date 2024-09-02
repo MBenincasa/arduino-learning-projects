@@ -21,13 +21,13 @@ This Arduino project plays a melody using a buzzer. The melody is defined as an 
 
 ## How It Works
 
-`setup()` ***Function***
+`setup()` **Function**
 
 The `setup()` function initializes the Arduino:
 
 - `pinMode(buzzer, OUTPUT);`: Configures digital pin 9 as an output to control the buzzer.
 
-`loop()` ***Function***
+`loop()` **Function**
 
 The `loop()` function repeatedly plays the melody:
 

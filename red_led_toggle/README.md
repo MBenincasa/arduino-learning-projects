@@ -27,7 +27,7 @@ In this Arduino project, we create a practical and engaging circuit that allows 
 
 ## How It Works
 
-`setup()` ***Function***
+`setup()` **Function**
 
 The `setup()` function initializes the Arduino and configures the pins:
 
@@ -35,7 +35,7 @@ The `setup()` function initializes the Arduino and configures the pins:
 - `pinMode(BUTTON_PIN, INPUT);`: Configures digital pin 7 as an input to read the button state.
 - `digitalWrite(LED_PIN, ledState);`: Sets the initial state of the LED to off.
 
-`loop()` ***Function***
+`loop()` **Function**
 
 The `loop()` function repeatedly checks the button state and updates the LED:
 
