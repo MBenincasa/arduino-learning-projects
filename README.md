@@ -16,6 +16,9 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 4. **Simple Melody Player**
     - **Description:** In this project, you’ll build a simple melody player using a piezo buzzer. You’ll learn how to generate sounds and melodies with Arduino.
     - **Skills Learned:** Using the `tone()` function to produce sounds, understanding note frequencies and durations.
+5. **Photoresistor Light Trigger**
+    - **Description:** This project involves using a photoresistor to detect light levels and control an LED based on those levels. When the light intensity falls below a specific threshold, the LED turns on, and it turns off when the light intensity is above the threshold. This project demonstrates how to read analog values and control a digital output based on those readings.
+    - **Skills Learned:** Reading analog sensor values using `analogRead()`.
 
 ## Getting Started
 
