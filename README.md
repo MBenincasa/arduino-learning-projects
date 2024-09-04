@@ -19,6 +19,9 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 5. **Photoresistor Light Trigger**
     - **Description:** This project involves using a photoresistor to detect light levels and control an LED based on those levels. When the light intensity falls below a specific threshold, the LED turns on, and it turns off when the light intensity is above the threshold. This project demonstrates how to read analog values and control a digital output based on those readings.
     - **Skills Learned:** Reading analog sensor values using `analogRead()`.
+6. **Thermo Display**
+    - **Description:** This project uses a thermistor to measure the ambient temperature and displays it on a seven-segment display. It involves creating a voltage divider circuit with the thermistor, calculating temperature using the Steinhart-Hart equation, and showing the temperature with a seven-segment display.
+    - **Skills Learned:** Temperature calculation, working with seven-segment displays, and updating displays with `SevSeg` library.
 
 ## Getting Started
 
