@@ -22,6 +22,9 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 6. **Thermo Display**
     - **Description:** This project uses a thermistor to measure the ambient temperature and displays it on a seven-segment display. It involves creating a voltage divider circuit with the thermistor, calculating temperature using the Steinhart-Hart equation, and showing the temperature with a seven-segment display.
     - **Skills Learned:** Temperature calculation, working with seven-segment displays, and updating displays with `SevSeg` library.
+7. **IncliAlert**
+    - **Description:** This project uses a tilt switch to activate an LED and a buzzer. When the tilt switch is tilted, the LED lights up, and the buzzer sounds, demonstrating basic digital input and output control.
+    - **Skills Learned:** Understanding how a tilt switch works.
 
 ## Getting Started
 
