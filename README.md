@@ -25,6 +25,9 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 7. **IncliAlert**
     - **Description:** This project uses a tilt switch to activate an LED and a buzzer. When the tilt switch is tilted, the LED lights up, and the buzzer sounds, demonstrating basic digital input and output control.
     - **Skills Learned:** Understanding how a tilt switch works.
+8. **Light Intensity Regulator**
+    - **Description:** This project uses a potentiometer to control the brightness of an LED. As the potentiometer is adjusted, the LED’s brightness changes, showing how to read analog input values and use PWM output to create a dimming effect.
+    - **Skills Learned:** Understanding how a potentiometer works.
 
 ## Getting Started
 
