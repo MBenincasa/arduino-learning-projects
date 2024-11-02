@@ -21,13 +21,14 @@ This Arduino project is a simple circuit that makes a red LED blink at one-secon
 ![Circuit diagram](https://github.com/MBenincasa/arduino-learning-projects/blob/main/blinking_red_led/blinking_red_led_design.png)
 
 ## How It Works
+
 `setup()` **Function**
 
-The setup() function runs once when the Arduino is powered on. In this function, digital pin 8 is configured as an output using the pinMode(8, OUTPUT); command.
+The `setup()` function runs once when the Arduino is powered on. In this function, digital pin 8 is configured as an output using the pinMode(8, OUTPUT); command.
 
 `loop()` **Function**
 
-The loop() function contains the code that runs repeatedly. In this case, the LED is turned on and off at one-second intervals.
+The `loop()` function contains the code that runs repeatedly. In this case, the LED is turned on and off at one-second intervals.
 
 1. `digitalWrite(8, HIGH);`: Sets pin 8 to HIGH, turning on the LED.
 2. `delay(1000);`: Waits for 1000 milliseconds (1 second).
