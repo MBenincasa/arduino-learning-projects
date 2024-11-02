@@ -28,6 +28,9 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 8. **Light Intensity Regulator**
     - **Description:** This project uses a potentiometer to control the brightness of an LED. As the potentiometer is adjusted, the LED’s brightness changes, showing how to read analog input values and use PWM output to create a dimming effect.
     - **Skills Learned:** Understanding how a potentiometer works.
+9. **Blue Light**
+   - **Description:** This project implements a Bluetooth Low Energy (BLE) controller to turn an LED on and off remotely.
+   - **Skills Learned:** BLE communication with `ArduinoBLE` library, handling BLE services and characteristics.
 
 ## Getting Started
 
