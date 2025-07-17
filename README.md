@@ -31,6 +31,11 @@ Welcome to the Arduino Learning Projects repository! This collection is dedicate
 9. **Blue Light**
    - **Description:** This project implements a Bluetooth Low Energy (BLE) controller to turn an LED on and off remotely.
    - **Skills Learned:** BLE communication with `ArduinoBLE` library, handling BLE services and characteristics.
+10. **ThermoOLED**
+    - **Description:** This project uses a DHT22 temperature and humidity sensor and displays live readings on a 1.3" SH1106 OLED screen via I2C. It's a practical exercise in sensor integration and graphical output.
+    - **Skills Learned:** Reading temperature and humidity data with the `DHT` library, using the `U8g2` library for OLED display.
+
+---
 
 ## Getting Started
 
